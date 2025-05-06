@@ -1,0 +1,1 @@
+# practice of terraform workspace, work space is used to host different environments without having to write codes in different environments, just using the terraforms tfvars along with variable files is enough, this helps with reusable code
